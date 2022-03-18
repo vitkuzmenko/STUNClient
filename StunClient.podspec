@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Sources/StunClient/**/*.swift'
 
-  s.dependency 'SwiftNIO', '~> 2.18.0'
+  s.dependency 'SwiftNIO', '~> 2.9.0'
 end
